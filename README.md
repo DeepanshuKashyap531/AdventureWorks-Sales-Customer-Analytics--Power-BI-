@@ -1,4 +1,4 @@
-** 📊 AdventureWorks Sales & Customer Analytics (Power BI) **
+**📊 AdventureWorks Sales & Customer Analytics (Power BI)**
 
 An end-to-end business intelligence project built using Power BI on the AdventureWorks dataset.
 This project demonstrates my ability to model data, write advanced DAX, and convert raw data into business insights — not just dashboards.
